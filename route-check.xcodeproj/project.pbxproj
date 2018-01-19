@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6DFECEB61FF5B71C005F2550 /* Recursive Subset */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Recursive Subset"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DFECEB61FF5B71C005F2550 /* Recursive Subset */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.objfile"; includeInIndex = 0; path = "Recursive Subset"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DFECEB91FF5B71C005F2550 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		6DFECEAD1FF5B71C005F2550 = {
 			isa = PBXGroup;
 			children = (
-				6DFECEB81FF5B71C005F2550 /* Recursive Subset */,
+				6DFECEB81FF5B71C005F2550 /* route-check */,
 				6DFECEB71FF5B71C005F2550 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6DFECEB81FF5B71C005F2550 /* Recursive Subset */ = {
+		6DFECEB81FF5B71C005F2550 /* route-check */ = {
 			isa = PBXGroup;
 			children = (
 				6DFECEB91FF5B71C005F2550 /* main.c */,
 			);
-			path = "Recursive Subset";
+			path = "route-check";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6DFECEB11FF5B71C005F2550 /* Build configuration list for PBXProject "Recursive Subset" */;
+			buildConfigurationList = 6DFECEB11FF5B71C005F2550 /* Build configuration list for PBXProject "route-check" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -248,7 +248,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6DFECEB11FF5B71C005F2550 /* Build configuration list for PBXProject "Recursive Subset" */ = {
+		6DFECEB11FF5B71C005F2550 /* Build configuration list for PBXProject "route-check" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6DFECEBB1FF5B71C005F2550 /* Debug */,
